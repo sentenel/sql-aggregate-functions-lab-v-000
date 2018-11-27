@@ -5,4 +5,3 @@ gem 'sqlite3'
 
 # Testing
 gem 'rspec'
-
